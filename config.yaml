@@ -5,6 +5,11 @@ teams:
       - jwagantall
     members:
       - thelinuxfoundation
+  - name: aries-test
+    maintainers:
+      - ryjones
+    members:
+      - swcurran
 
 repositories:
   - name: governance
